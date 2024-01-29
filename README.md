@@ -1,6 +1,6 @@
 # ai-wargame
 
-##Overview
+## Overview
 This project is a 2-player strategy game built with Python, where an attacker and a defender compete on a 5x5 board, each with different unit types. The code includes concepts such as adversarial search, minimax algorithm, alpha-beta pruning, and heuristics to create a computer player capable of making its strategic moves. OOP principles were used to handle features such as keeping track of unit types, actions taken and restrictions, and units' health levels.  
 
 ## Run
